@@ -41,3 +41,4 @@ Signed,
 - David Jor Hpan ([@david-gnext](https://github.com/david-gnext)), Yangon , Myanmar
 - Abdullah Ramzan ([@abdullah1908](https://github.com/abdullah1908)), WP Expert, Lahore Pakistan
 - Ahmad Moussawi ([@ahmad-moussawi](https://github.com/ahmad-moussawi)), PHP and C# Web Developer, Beirut Lebanon
+- Sukhdev Mohan ([@mahakaal](https://github.com/mahakaal)), PHP developer trying to become a full stack one, Italy
